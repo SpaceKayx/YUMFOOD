@@ -1,5 +1,5 @@
 Hướng dẫn sử dụng
-1. Runfile
+1. Runfile (MainYumFood)
 2. Đăng nhập 
 3. Tại cửa sổ đăng nhập
   3.1. Đổi mật khẩu: Hỗ trợ người dùng đổi mật khẩu 1 tài khoản user
